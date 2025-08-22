@@ -30,6 +30,6 @@ double x = 1 / (double) n;
 ## Como Executar
 
 1. Compile o arquivo `.java` usando o terminal.
-2. Execute a classe principal,Saidaview .
+2. Execute a classe view.Main .
 
 ---
